@@ -1,14 +1,14 @@
 body {
     color: darkslategray;
-    background-color: lavenderblush
+    background-color: lavenderblush;
     font-family: 'Victor Mono', monospace;
 }
 h1 {
-    color: darkslategray; background-color: lightsteelblue
+    color: darkslategray; background-color: lightsteelblue;
     font-family: 'Victor Mono', monospace;
 }
 h2 {
-    color: darkslategray; background-color: honeydew
+    color: darkslategray; background-color: honeydew;
     font-family: 'Victor Mono', monospace;
 }
 a {color: darkslategray;}
