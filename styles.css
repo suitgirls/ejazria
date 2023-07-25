@@ -12,7 +12,11 @@ h2 {
     font-family: 'Victor Mono', monospace;
 }
 
-nav {background-color: azure;}
+nav {
+    padding: 10px;
+    margin-bottom: 30px;
+    background-color: azure;
+}
 
 nav a {color: black}
 nav {color: black}
