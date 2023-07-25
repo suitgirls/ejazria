@@ -30,3 +30,7 @@ div {
     background-color: white;
     border-radius: 25px;
 }
+
+.BlogBanner {
+max-width: 100%;
+}
